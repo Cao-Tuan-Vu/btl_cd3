@@ -115,27 +115,36 @@ BTL_cd3/
    - Loại bỏ dữ liệu lỗi
    - Báo cáo chi tiết
 
-### 4. **Phân Tích Dữ Liệu** 📊
+### 4. **Đánh Giá Chất Lượng Dữ Liệu** 🔍
+   - Tính điểm chất lượng (0-100)
+   - Phân tích tỷ lệ hoàn chỉnh per cột
+   - Phát hiện bản ghi trùng lặp
+   - Tìm giá trị ngoại lệ
+   - Xem thống kê mô tả
+   - Phân tích phân phối giá trị
+   - Nhận khuyến nghị cải thiện
+
+### 5. **Phân Tích Dữ Liệu** 📊
    - Phân tích doanh thu (tổng, theo tháng, ngày, khu vực, danh mục)
    - Phân tích sản phẩm (top 10 bán chạy, doanh thu cao)
    - Phân tích khách hàng (tổng, repeat customers, LTV)
    - Bộ lọc động (ngày, danh mục, khu vực)
    - Biểu đồ trực quan
 
-### 5. **Dashboard** 📈
+### 6. **Dashboard** 📈
    - Hiển thị KPI chính
    - Tab phân tích (Doanh Thu, Sản Phẩm, Khách Hàng)
    - Biểu đồ interactive
    - Bộ lọc dữ liệu realtime
 
-### 6. **Dự Báo** 🔮
+### 7. **Dự Báo** 🔮
    - Dự báo doanh thu
    - Dự báo số đơn hàng
    - Lựa chọn kỳ dự báo (hàng ngày hoặc hàng tháng)
    - Hiển thị trend, seasonality
    - Khoảng tin cậy 95%
 
-### 7. **Xuất Báo Cáo** 📋
+### 8. **Xuất Báo Cáo** 📋
    - Báo cáo tổng quan
    - Báo cáo doanh thu
    - Báo cáo sản phẩm

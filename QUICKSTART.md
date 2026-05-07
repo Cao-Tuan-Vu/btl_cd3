@@ -33,6 +33,14 @@ Mở trình duyệt và vào: **http://localhost:8501**
 - Xử lý giá trị NULL
 - Chuẩn hóa dữ liệu
 
+### 🔍 Đánh Giá Chất Lượng Dữ Liệu
+- Kiểm tra tỷ lệ dữ liệu đầy đủ (completeness)
+- Phát hiện bản ghi trùng lặp (duplicates)
+- Tìm giá trị ngoại lệ (outliers)
+- Xem thống kê mô tả chi tiết
+- Phân tích phân phối giá trị
+- Nhận khuyến nghị cải thiện
+
 ### 📊 Phân Tích Dữ Liệu
 - Xem thống kê doanh thu, sản phẩm, khách hàng
 - Dùng bộ lọc bên trái để lọc dữ liệu
